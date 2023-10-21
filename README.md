@@ -1,6 +1,6 @@
 # Présentation
 
-Bonjour! Je suis un développeur talentueux de 17 ans avec une passion pour l'algorithmie et la programmation. J'ai des compétences en C++, Python et Node.js et je préfère développer avec Visual Studio Code.
+Bonjour! Je suis un développeur talentueux de 18 ans avec une passion pour l'algorithmie et la programmation. J'ai des compétences en C++, Python et Node.js et je préfère développer avec Visual Studio Code.
 
 ## Projets
 
